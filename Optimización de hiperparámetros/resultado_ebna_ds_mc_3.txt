@@ -1,0 +1,4 @@
+	NFVALS = 160 F = -0.9722222222222222CPU time (s) = 208.56788628500001
+	X = [['2048_0_2048_64_512_8' 'tanh' 'none' 'adamw' 0.00025 100 32]]
+	Settings: {'size_gen': 20, 'max_iter': 15, 'dead_iter': 5, 'n_variables': 7, 'alpha': 0.5, 'elite_factor': 0.4, 'disp': True, 'parallelize': False}
+	History best cost per iteration: [-0.9444444444444444, -0.75, -0.9722222222222222, -0.8888888888888888, -0.9722222222222222, -0.9444444444444444, -0.9722222222222222, -0.9444444444444444]

@@ -1,0 +1,13 @@
+
+numpy
+matplotlib
+torch
+scikit-learn
+pandas
+tqdm
+networkx
+
+# Paquetes específicos para EDAspy, PyBNesian, y pgmpy
+EDAspy
+pybnesian
+pgmpy
